@@ -1,4 +1,7 @@
-# Casper
+# This just a demo for how to modify the footer for your ghost! Enjoy:)
+
+-------------------------------
+# Casper 2.1.9
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper. If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
 
